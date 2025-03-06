@@ -26,3 +26,11 @@ Welcome to my detailed tutorial on how to successfully install the osTicketing H
 * osTicket v1.15.18
 * HeidiSQL
 
+## Installation Steps 
+### Step 1: Create a Virtual Machine in Azure
+![1  create VM](https://github.com/user-attachments/assets/fcb09ff2-9cdd-45be-9b9e-850a33164aaa)
+![2  remotely log in](https://github.com/user-attachments/assets/6ff5af90-b1ab-4777-a27e-041ad99b0690)
+
+In the Azure portal, create a virtual machine (create a new resource group)
+- Remotely log into the newly created virtual machine with its IP address. 
+
