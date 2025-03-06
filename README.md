@@ -83,7 +83,7 @@ In the “osTicket” folder under the connections column, select PHP Manager > 
 - Enable: php_intl.dll
 - Enable: php_opcache.dll
   
-Refresh browser page to see if the recommended feature have been updated
+Refresh browser page to see if the recommended feature have been updated.
 
 ### Step 9: Rename “ost-config.php” and Assign Permissions: ost-config.php
 ![16  rename file in osTicket](https://github.com/user-attachments/assets/df433fa5-9349-424c-921b-89ccdc6965f8)
