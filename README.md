@@ -100,12 +100,12 @@ Refresh browser page to see if the recommended feature have been updated.
 ![22  complete installation](https://github.com/user-attachments/assets/4d11ec76-fec9-4ba3-baee-e90d51acf6ae)
 ![23  complete installation](https://github.com/user-attachments/assets/7734894c-9d54-467f-966f-99f94bcee053)
 
-Go back to the web browser > complete basic installation 
+> Go back to the web browser > complete basic installation 
 Download HeidiSQL > create a new section > give a password > Open 
 On the left column under “Unnamed”, select Create New > Database > name “osTicket” > ok
 Fill in the Database Setting with the same into > Install Now
 
-
+Congratulations! We have officially installed the osTicketing system successfully :)
 
 
 
