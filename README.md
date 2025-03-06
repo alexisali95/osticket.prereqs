@@ -32,5 +32,22 @@ Welcome to my detailed tutorial on how to successfully install the osTicketing H
 ![2  remotely log in](https://github.com/user-attachments/assets/6ff5af90-b1ab-4777-a27e-041ad99b0690)
 
 In the Azure portal, create a virtual machine (create a new resource group)
-- Remotely log into the newly created virtual machine with its IP address. 
+Remotely log into the newly created virtual machine with its IP address. 
+
+### Step 2: Install and Enable IIS in Windows with CGI
+![3  turn on IIS](https://github.com/user-attachments/assets/88b6946e-4b4a-43a5-9168-a97e3adcf3b6)
+
+This will help bridge the gap to allow applications to host on to the browser. 
+> Open the control panel > programs > turn windows features on/off > find Internet Information Services > open Application Development Features tab > check CGI > ok
+
+
+
+
+
+
+
+
+
+
+
 
