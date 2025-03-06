@@ -7,7 +7,7 @@ Welcome to my detailed tutorial on how to successfully install the osTicketing H
 
 ## Environments and Technologies Used 
 
-* Microsoft Azure
+* Microsoft Azure (Virtual Machines/Compute)
 * Remote Desktop
 * Internet Information Services (IIS)
 
