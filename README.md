@@ -77,8 +77,8 @@ Go back to the web browser and download the osTicketing system
 ![14  enable php_imap   php_intl](https://github.com/user-attachments/assets/60dff2b7-08e5-43a6-9b94-c2c3f8a1af9e)
 ![15  reload page](https://github.com/user-attachments/assets/5684b4d3-4d12-4aff-ba9e-18f8b7c03c3c)
 
-> Open IIS Manager > In the Connections column, click “VM-OST” > sites > Default Web Site > osTicket > on the right column under Manage Folder, click “Browse *80 (https)
- In the “osTicket” folder under the connections column, select PHP Manager > Enable or disable an extension > enable the extensions that need to be enabled  
+> Open IIS Manager > In the Connections column, click “VM-OST” > sites > Default Web Site > osTicket > on the right column under Manage Folder, click “Browse *80 (https).
+In the “osTicket” folder under the connections column, select PHP Manager > Enable or disable an extension > enable the extensions that need to be enabled  
 - Enable: php_imap.dll	
 - Enable: php_intl.dll
 - Enable: php_opcache.dll
