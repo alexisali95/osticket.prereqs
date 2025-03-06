@@ -92,7 +92,7 @@ Refresh browser page to see if the recommended feature have been updated.
 ![19  allow full control](https://github.com/user-attachments/assets/951fd266-7e73-4b01-9b1e-c72caf60c485)
 ![19  full control updated](https://github.com/user-attachments/assets/b3232287-1460-45fc-90d3-109379117e91)
 
-> In the file explorer, select “osTicket” (This PC > Windows (C:) > inetpub > wwwroot > osTicket > include > rename “ost-sampleconfig.php” to  “ost-config.php” > ost-config.php > Properties > Security > Advanced > Disable inheritance > remove inheritance permissions > Add > select a principal > in the empty white box type in “everyone > ok > allow full control > apply > ok > ok
+> In the file explorer, select “osTicket” > inetpub > wwwroot > osTicket > include > rename “ost-sampleconfig.php” to  “ost-config.php” > ost-config.php > Properties > Security > Advanced > Disable inheritance > remove inheritance permissions > Add > select a principal > in the empty white box type in “everyone > ok > allow full control > apply > ok > ok
 
 ### Step 10: Finish Setting up osTicket Installer
 ![20  install heidiSQL](https://github.com/user-attachments/assets/9a7b091b-4149-44ff-98d4-265ed6ec79b0)
